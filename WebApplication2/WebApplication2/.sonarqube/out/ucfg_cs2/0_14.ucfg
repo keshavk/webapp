@@ -1,0 +1,61 @@
+
+…WebApplication2.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)b
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs   ("0*ó
+0å
+â
+b
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs" "(#
+
+%0bool"vMicrosoft.Extensions.Hosting.HostEnvironmentEnvExtensions.IsDevelopment(Microsoft.Extensions.Hosting.IHostEnvironment)*=";
+9Microsoft.Extensions.Hosting.HostEnvironmentEnvExtensions*9
+7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
+1
+2*´
+1©
+¦
+b
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs$ $(/6
+%10Microsoft.AspNetCore.Builder.IApplicationBuilder"‰Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions.UseDeveloperExceptionPage(Microsoft.AspNetCore.Builder.IApplicationBuilder)*A"?
+=Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+2*ý
+2š
+—
+b
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs' '(%6
+%20Microsoft.AspNetCore.Builder.IApplicationBuilder"Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions.UseHttpsRedirection(Microsoft.AspNetCore.Builder.IApplicationBuilder)*=";
+9Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder°
+­
+b
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs) )(6
+%30Microsoft.AspNetCore.Builder.IApplicationBuilder"…Microsoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseRouting(Microsoft.AspNetCore.Builder.IApplicationBuilder)*L"J
+HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder¢
+Ÿ
+b
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs+ +("6
+%40Microsoft.AspNetCore.Builder.IApplicationBuilder"Microsoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions.UseAuthorization(Microsoft.AspNetCore.Builder.IApplicationBuilder)*B"@
+>Microsoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderý
+ú
+b
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs- 0(6
+%50Microsoft.AspNetCore.Builder.IApplicationBuilder"ÊMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseEndpoints(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Routing.IEndpointRouteBuilder>)*L"J
+HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""*
+3*~
+3"y
+b
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs1 1(	
+implicit return:7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder:7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
+WebApplication2.Startup

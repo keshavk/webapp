@@ -1,0 +1,18 @@
+
+fWebApplication2.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)b
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs (%"0*Ü
+0Ñ
+Î
+b
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs (%:
+%04Microsoft.Extensions.DependencyInjection.IMvcBuilder"“Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllers(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
+GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+1*~
+1"y
+b
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs (	
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB
+WebApplication2.Startup
