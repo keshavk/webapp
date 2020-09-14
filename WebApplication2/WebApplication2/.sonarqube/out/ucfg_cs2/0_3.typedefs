@@ -1,7 +1,11 @@
-é
-WebApplication2.Startupobject
-:Startup(Microsoft.Extensions.Configuration.IConfiguration)RWebApplication2.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)¸
-NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)fWebApplication2.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)÷
-mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)…WebApplication2.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)>
-Configuration.get)WebApplication2.Startup.Configuration.get>
-Configuration.set)WebApplication2.Startup.Configuration.set
+í
+WebApplication2.WeatherForecastobjectF
+WeatherForecast()1WebApplication2.WeatherForecast.WeatherForecast()4
+Date.get(WebApplication2.WeatherForecast.Date.get4
+Date.set(WebApplication2.WeatherForecast.Date.setD
+TemperatureC.get0WebApplication2.WeatherForecast.TemperatureC.getD
+TemperatureC.set0WebApplication2.WeatherForecast.TemperatureC.setD
+TemperatureF.get0WebApplication2.WeatherForecast.TemperatureF.getD
+TemperatureF.set0WebApplication2.WeatherForecast.TemperatureF.set:
+Summary.get+WebApplication2.WeatherForecast.Summary.get:
+Summary.set+WebApplication2.WeatherForecast.Summary.set

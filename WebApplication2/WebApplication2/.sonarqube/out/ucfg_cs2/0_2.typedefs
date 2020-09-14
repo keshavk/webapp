@@ -1,11 +1,3 @@
-í
-WebApplication2.WeatherForecastobjectF
-WeatherForecast()1WebApplication2.WeatherForecast.WeatherForecast()4
-Date.get(WebApplication2.WeatherForecast.Date.get4
-Date.set(WebApplication2.WeatherForecast.Date.setD
-TemperatureC.get0WebApplication2.WeatherForecast.TemperatureC.getD
-TemperatureC.set0WebApplication2.WeatherForecast.TemperatureC.setD
-TemperatureF.get0WebApplication2.WeatherForecast.TemperatureF.getD
-TemperatureF.set0WebApplication2.WeatherForecast.TemperatureF.set:
-Summary.get+WebApplication2.WeatherForecast.Summary.get:
-Summary.set+WebApplication2.WeatherForecast.Summary.set
+®
+*WebApplication2.Controllers.HomeController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectO
+HomeController();WebApplication2.Controllers.HomeController.HomeController()

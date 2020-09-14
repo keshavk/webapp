@@ -1,17 +1,19 @@
 
-+WebApplication2.WeatherForecast.Summary.setj
-`C:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\WeatherForecast.cs% (("0*Ô
-0¿
-Ω
-j
-`C:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\WeatherForecast.cs% ()6!
-WebApplication2.WeatherForecast"
-Summarystring"__id*
-
-valuestring"¶
-j
-`C:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\WeatherForecast.cs% ()8*6!
-WebApplication2.WeatherForecast"
-Summarystring:
-valuestringB#!
-WebApplication2.WeatherForecast
+RWebApplication2.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)b
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs ("0*å
+0Å
+˛
+b
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs ()
+
+%0void")WebApplication2.Startup.Configuration.set*
+WebApplication2.Startup*D
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*
+1*~
+1"y
+b
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs (	
+implicit return:B
+configuration1Microsoft.Extensions.Configuration.IConfigurationB
+WebApplication2.Startup

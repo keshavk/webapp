@@ -1,4 +1,7 @@
-Ø
-5WebApplication2.Controllers.WeatherForecastController'Microsoft.AspNetCore.Mvc.ControllerBaseobject§
-vWeatherForecastController(Microsoft.Extensions.Logging.ILogger<WebApplication2.Controllers.WeatherForecastController>)¬WebApplication2.Controllers.WeatherForecastController.WeatherForecastController(Microsoft.Extensions.Logging.ILogger<WebApplication2.Controllers.WeatherForecastController>)D
-Get();WebApplication2.Controllers.WeatherForecastController.Get()
+é
+WebApplication2.Startupobject
+:Startup(Microsoft.Extensions.Configuration.IConfiguration)RWebApplication2.Startup.Startup(Microsoft.Extensions.Configuration.IConfiguration)¸
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)fWebApplication2.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)÷
+mConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)…WebApplication2.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)>
+Configuration.get)WebApplication2.Startup.Configuration.get>
+Configuration.set)WebApplication2.Startup.Configuration.set

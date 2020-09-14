@@ -14,7 +14,7 @@
     <ConfigSetting Id="settings.file.path" Value="C:\Users\keshav.k\.dotnet\tools\.store\dotnet-sonarscanner\4.10.0\dotnet-sonarscanner\4.10.0\tools\netcoreapp3.0\any\SonarQube.Analysis.xml" />
   </AdditionalConfig>
   <ServerSettings>
-    <Property Name="sonar.project.monorepo.enabled">false</Property>
+    <Property Name="sonar.project.monorepo.enabled">true</Property>
     <Property Name="sonaranalyzer-cs.nuget.packageVersion">8.12.0.21095</Property>
     <Property Name="sonaranalyzer.security.cs.pluginVersion">8.5.0-M2.3931</Property>
     <Property Name="sonar.cs.ignoreHeaderComments">true</Property>
@@ -103,7 +103,7 @@
     <Property Name="sonaranalyzer.security.cs.pluginKey">securitycsharpfrontend</Property>
     <Property Name="sonar.branch.longLivedBranches.regex">(branch|release)-.*</Property>
     <Property Name="sonar.objc.file.suffixes">.m</Property>
-    <Property Name="sonar.autoscan.enabled">false</Property>
+    <Property Name="sonar.autoscan.enabled">true</Property>
     <Property Name="sonar.ruby.coverage.reportPaths">coverage/.resultset.json</Property>
     <Property Name="sonaranalyzer-cs.staticResourceName">SonarAnalyzer-8.12.0.21095.zip</Property>
     <Property Name="sonar.cpd.cobol.ignoreLiteral">true</Property>

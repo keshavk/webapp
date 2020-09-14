@@ -1,26 +1,15 @@
 
-¬WebApplication2.Controllers.WeatherForecastController.WeatherForecastController(Microsoft.Extensions.Logging.ILogger<WebApplication2.Controllers.WeatherForecastController>)€
-vC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Controllers\WeatherForecastController.cs (("2*Ó
-0È
-Å
-€
-vC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Controllers\WeatherForecastController.cs (y7
-5WebApplication2.Controllers.WeatherForecastController">
-_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*?
-=
-logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
-1*ž
-1"˜
-€
-vC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Controllers\WeatherForecastController.cs (	
-implicit return*æ
-2Û
-Ø
-€
-vC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Controllers\WeatherForecastController.cs ((
-%0"__entrypoint*?
-=
-logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
-0:=
-logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>B97
-5WebApplication2.Controllers.WeatherForecastController
++WebApplication2.WeatherForecast.Summary.getj
+`C:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\WeatherForecast.cs  (#"0*Á
+0½
+º
+j
+`C:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\WeatherForecast.cs  ($
+%0string"__id*8*6!
+WebApplication2.WeatherForecast"
+Summarystring"|
+j
+`C:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\WeatherForecast.cs  ($
+
+%0stringB#!
+WebApplication2.WeatherForecast

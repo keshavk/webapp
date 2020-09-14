@@ -1,4 +1,43 @@
-“
+‡
+kC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Controllers\HomeController.cs
+	namespace 	
+WebApplication2
+ 
+. 
+Controllers %
+{		 
+[
+
+ 
+Route
+
+ 
+
+(
+
+
+ 
+$str
+
+ 
+)
+
+ 
+]
+
+ 
+[ 
+ApiController 
+] 
+public 
+
+class 
+HomeController 
+:  !
+ControllerBase" 0
+{ 
+} 
+} “
 vC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Controllers\WeatherForecastController.cs
 	namespace 	
 WebApplication2

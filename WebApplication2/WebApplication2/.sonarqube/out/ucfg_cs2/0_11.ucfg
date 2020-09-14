@@ -1,15 +1,18 @@
 
-)WebApplication2.Startup.Configuration.getb
-XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs. (1"0*±
-0‰
-†
+fWebApplication2.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)b
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs (%"0*Ü
+0Ñ
+Î
 b
-XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs. (27
-%01Microsoft.Extensions.Configuration.IConfiguration"__id*a*_
-WebApplication2.Startup"B
-Configuration1Microsoft.Extensions.Configuration.IConfiguration"Ÿ
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs (%:
+%04Microsoft.Extensions.DependencyInjection.IMvcBuilder"“Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllers(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
+GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+1*~
+1"y
 b
-XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs. (29
-7
-%01Microsoft.Extensions.Configuration.IConfigurationB
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs (	
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB
 WebApplication2.Startup

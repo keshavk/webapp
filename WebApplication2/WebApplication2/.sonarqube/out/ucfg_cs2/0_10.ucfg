@@ -1,31 +1,15 @@
 
-&WebApplication2.Program.Main(string[])b
-XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Program.cs ("0*Ú
-0þ
-û
+)WebApplication2.Startup.Configuration.getb
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs. (1"0*±
+0‰
+†
 b
-XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Program.cs (#/
-%0)Microsoft.Extensions.Hosting.IHostBuilder"3WebApplication2.Program.CreateHostBuilder(string[])*"
-WebApplication2.Program*
-
-argsstring[]€ý
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs. (27
+%01Microsoft.Extensions.Configuration.IConfiguration"__id*a*_
+WebApplication2.Startup"B
+Configuration1Microsoft.Extensions.Configuration.IConfiguration"Ÿ
 b
-XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Program.cs (+(
-%1"Microsoft.Extensions.Hosting.IHost"1Microsoft.Extensions.Hosting.IHostBuilder.Build()*1
-/
-%0)Microsoft.Extensions.Hosting.IHostBuilder2Build()Ë
-È
-b
-XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Program.cs (1
-
-%2void"fMicrosoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(Microsoft.Extensions.Hosting.IHost)*B"@
->Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions**
-(
-%1"Microsoft.Extensions.Hosting.IHost*
-1*~
-1"y
-b
-XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Program.cs (	
-implicit return:
-argsstring[]B"
-WebApplication2.Program
+XC:\Users\keshav.k\source\repos\keshavk\webapp\WebApplication2\WebApplication2\Startup.cs. (29
+7
+%01Microsoft.Extensions.Configuration.IConfigurationB
+WebApplication2.Startup
